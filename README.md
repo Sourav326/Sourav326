@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Sourav Chauhan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="350" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav326&label=Profile%20views&color=0e75b6&style=flat" alt="sourav326" /> </p>
 
@@ -20,7 +20,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p> 
+<p style="
+    display: flex;
+    justify-content: space-between;
+"> 
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 

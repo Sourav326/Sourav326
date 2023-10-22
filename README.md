@@ -17,7 +17,7 @@ Proficient in JavaScript, React, Express, HTML, CSS, Tailwind. Passionate about 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sourav-chauhan-06519a196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav-chauhan-06519a196/" height="30" width="40" /></a>
-<a href="https://discord.gg/sourav_chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sourav_chauhan" height="30" width="40" /></a>
+<a href="https://discord.gg/Kg3933BG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sourav_chauhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

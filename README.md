@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sourav Chauhan</h1>
-<h2 align="center">A passionate Full Stack developer from India.</h2>
+<h2 align="center">A passionate Full Stack developer from India. 🇮🇳</h2>
 Proficient in JavaScript, React, Express, HTML, CSS, Tailwind. Passionate about implementing and launching new projects. Looking to start my career as an entry-level full-stack web developer with a reputed firm driven by technology.
 <img align="right" width="350" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 

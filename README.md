@@ -3,12 +3,12 @@
 
 <h1 align="center">Hi 👋, I'm Sourav Chauhan</h1>
 <h2 align="center">A passionate Full Stack developer from India.</h2>
-Proficient in JavaScript, React, Express, Node, and MongoDB. Passionate about implementing and launching new projects. Looking to start my career as an entry-level full-stack web developer with a reputed firm driven by technology.
+Proficient in JavaScript, React, Express, HTML, CSS, Tailwind. Passionate about implementing and launching new projects. Looking to start my career as an entry-level full-stack web developer with a reputed firm driven by technology.
 <img align="right" width="350" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav326&label=Profile%20views&color=0e75b6&style=flat" alt="sourav326" /> </p>
 
-- 🌱 I’m currently learning **Node.js, Express.js, Mongodb**
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
 - 💬 Ask me about **javascript, React**
 

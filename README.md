@@ -1,13 +1,22 @@
-<h1 align="center">Hi 👋, I'm Sourav Chauhan</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+[![MasterHead](https://camo.githubusercontent.com/8bd5bffa763c294fab1345c2886cf6e453dd03d5a785cdd73619e64fdbc32444/68747470733a2f2f7777772e6368617270656e692e636f6d2f7374617469632f696d616765732f6172726f772d66756e6374696f6e732d696e2d636c6173732d70726f706572746965732d6d696768742d6e6f742d62652d61732d67726561742d61732d77652d7468696e6b2f62616e6e65722e676966)]
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav326" alt="sourav326" /></a> </p>
+
+<h1 align="center">Hi 👋, I'm Sourav Chauhan</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav326&label=Profile%20views&color=0e75b6&style=flat" alt="sourav326" /> </p>
+
+- 🌱 I’m currently learning **Node.js, Express.js, Mongodb**
+
+- 💬 Ask me about **javascript, React**
 
 - 📫 How to reach me **souravchauhan1964@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sourav-chauhan-06519a196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sourav-chauhan-06519a196/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sourav-chauhan-06519a196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav-chauhan-06519a196/" height="30" width="40" /></a>
+<a href="https://discord.gg/sourav_chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sourav_chauhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourav326&show_icons=true&locale=en&layout=compact" alt="sourav326" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourav326&show_icons=true&locale=en" alt="sourav326" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav326&" alt="sourav326" /></p>
